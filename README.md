@@ -22,5 +22,8 @@ I used python language. I specifically used django web framework
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-SOme of things that I would have wanted to add are a search bar to search for tasks and a due date and email  reminder of when the task is due
+
+Some of things that I would have wanted to add:
+are a search bar to search for tasks
+A due date and
+an email  reminder of when the task is due
